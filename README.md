@@ -67,6 +67,3 @@ Certain platforms (e.g., Journey, Direct Booking) show better Realization %.
 Atliq Palace (Mumbai) generates the highest revenue, while Atliq Exotica leads in ADR.
 
 ✨ This dashboard can be leveraged by hotel managers, analysts, and stakeholders to optimize pricing, improve booking channels, and enhance guest experiences.
-
-
-dashboard 
